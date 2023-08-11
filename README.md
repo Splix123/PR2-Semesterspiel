@@ -6,7 +6,7 @@ Für das Modul PR2 an der [Hochschule Mannheim](https://www.hs-mannheim.de) soll
 In diesem Github repository befindet sich unsere Iteration des Spiels.
 
 ## _Wer_  hat es erstellt?
-Erstellt wurde das Projekt von fünf Zweitsemester-Studenten:
+Erstellt wurde das Projekt von fünf Studenten:
 - Nicole Shiner
 - Rodez Tazo
 - Cindy Tuku
